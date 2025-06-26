@@ -17,7 +17,7 @@
             "ioValues": [
                 {
                     "name": "number or geometry",
-                    "ioValue": "4bcaa6e4-1f62-4c8f-b90a-5e58b21329d4"
+                    "ioValue": "055544cd-7cf5-49f0-980d-c21a8b4b6a55"
                 }
             ],
             "description": "Connect geometry here to make it available in the next level up. "
@@ -66,7 +66,7 @@
                 {
                     "atomType": "Input",
                     "name": "Width",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.2569832402234637,
                     "uniqueID": "6a810ce1-7846-4a0d-b60e-6494e10850b0",
                     "ioValues": [],
@@ -76,7 +76,7 @@
                 {
                     "atomType": "Input",
                     "name": "Height",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.3910614525139665,
                     "uniqueID": "43341a85-0b0f-45a1-9033-3edfa048f2c2",
                     "ioValues": [],
@@ -86,7 +86,7 @@
                 {
                     "atomType": "Input",
                     "name": "Radius",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.5893854748603352,
                     "uniqueID": "b21fa819-ae8d-4514-acf6-368f6ea05891",
                     "ioValues": [],
@@ -96,7 +96,7 @@
                 {
                     "atomType": "Input",
                     "name": "Spacing",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.7849162011173185,
                     "uniqueID": "b1210c68-6120-41e5-b4c3-be301937295d",
                     "ioValues": [],
@@ -143,7 +143,7 @@
                         {
                             "atomType": "Input",
                             "name": "Width",
-                            "x": 0.029699999999999997,
+                            "x": 0.024749999999999998,
                             "y": 0.2900232018561485,
                             "uniqueID": "221cc520-f65f-4670-8237-b02b00706bb5",
                             "ioValues": [],
@@ -153,7 +153,7 @@
                         {
                             "atomType": "Input",
                             "name": "Height",
-                            "x": 0.029699999999999997,
+                            "x": 0.024749999999999998,
                             "y": 0.44083526682134566,
                             "uniqueID": "e251be89-eb50-41a4-995c-f37f4aa4667b",
                             "ioValues": [],
@@ -163,7 +163,7 @@
                         {
                             "atomType": "Input",
                             "name": "Radius",
-                            "x": 0.029699999999999997,
+                            "x": 0.024749999999999998,
                             "y": 0.6334106728538283,
                             "uniqueID": "ebd790af-de54-4fb1-9660-c558f4d1d34c",
                             "ioValues": [],
@@ -704,7 +704,7 @@
                         {
                             "atomType": "Input",
                             "name": "Width",
-                            "x": 0.029699999999999997,
+                            "x": 0.024749999999999998,
                             "y": 0.2900232018561485,
                             "uniqueID": "60191116-9c80-457f-a489-397816a23d69",
                             "ioValues": [],
@@ -714,7 +714,7 @@
                         {
                             "atomType": "Input",
                             "name": "Height",
-                            "x": 0.029699999999999997,
+                            "x": 0.024749999999999998,
                             "y": 0.44083526682134566,
                             "uniqueID": "e910956d-f6b9-4866-beea-9ce8a3ac83d1",
                             "ioValues": [],
@@ -724,7 +724,7 @@
                         {
                             "atomType": "Input",
                             "name": "Radius",
-                            "x": 0.029699999999999997,
+                            "x": 0.024749999999999998,
                             "y": 0.6334106728538283,
                             "uniqueID": "49400388-7fb1-4d98-ac08-943b17addbe7",
                             "ioValues": [],
@@ -1552,7 +1552,7 @@
                 {
                     "atomType": "Input",
                     "name": "Radius",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.7541899441340782,
                     "uniqueID": "ae2fe602-5089-4fed-b7d6-352549e8d29e",
                     "ioValues": [],
@@ -1562,7 +1562,7 @@
                 {
                     "atomType": "Input",
                     "name": "Geometry",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.5055865921787709,
                     "uniqueID": "6ceabb5b-ea8c-43d1-9bb0-0e4530627a6a",
                     "ioValues": [],
@@ -1673,7 +1673,7 @@
                 {
                     "atomType": "Input",
                     "name": "Geometry",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.26740947075208915,
                     "uniqueID": "2d7366ea-7e7b-44f0-9cb2-ef7b7dcb6f70",
                     "ioValues": [],
@@ -1683,7 +1683,7 @@
                 {
                     "atomType": "Input",
                     "name": "Offset",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.40668523676880225,
                     "uniqueID": "3637437a-cb1b-4396-941a-53ee3300f64b",
                     "ioValues": [],
@@ -1693,7 +1693,7 @@
                 {
                     "atomType": "Input",
                     "name": "Angle X",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.5487465181058496,
                     "uniqueID": "a01fe9fe-7ab7-49d7-b990-e442be16bc54",
                     "ioValues": [],
@@ -1703,7 +1703,7 @@
                 {
                     "atomType": "Input",
                     "name": "Angle Z",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.8579387186629527,
                     "uniqueID": "96c1b248-0444-4e6b-8d54-a0ea3e8b7ed0",
                     "ioValues": [],
@@ -1713,7 +1713,7 @@
                 {
                     "atomType": "Input",
                     "name": "Angle Y",
-                    "x": 0.029699999999999997,
+                    "x": 0.024749999999999998,
                     "y": 0.7047353760445683,
                     "uniqueID": "c58fed3a-17fa-4390-a897-e8f4fb04f347",
                     "ioValues": [],
@@ -2491,6 +2491,32 @@
                 }
             ],
             "description": "Pick between assembly and fusion to join input geometries. Assembly takes multiple shapes together into one, shapes higher in the inputs list will cut into shapes lower on the input list where they overlap. Fusion takes all shapes or sketches and fuses them permanently into a single shape"
+        },
+        {
+            "atomType": "Move",
+            "name": "Move",
+            "x": 0.8472222222222222,
+            "y": 0.6508379888268156,
+            "uniqueID": "055544cd-7cf5-49f0-980d-c21a8b4b6a55",
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "4bcaa6e4-1f62-4c8f-b90a-5e58b21329d4"
+                },
+                {
+                    "name": "xDist",
+                    "ioValue": 0
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": 0
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": -10
+                }
+            ],
+            "description": "Moves a shape laterally in X, Y, Z."
         }
     ],
     "allConnectors": [
@@ -2566,9 +2592,16 @@
         },
         {
             "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": "4bcaa6e4-1f62-4c8f-b90a-5e58b21329d4",
+            "ap2ID": "055544cd-7cf5-49f0-980d-c21a8b4b6a55"
+        },
+        {
+            "ap1Name": "geometry",
             "ap2Name": "number or geometry",
             "ap2Primary": false,
-            "ap1ID": "4bcaa6e4-1f62-4c8f-b90a-5e58b21329d4",
+            "ap1ID": "055544cd-7cf5-49f0-980d-c21a8b4b6a55",
             "ap2ID": "b67d0954-6fa8-4920-b44a-d0bb90a0596c"
         }
     ],
