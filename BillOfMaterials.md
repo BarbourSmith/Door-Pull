@@ -2,6 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
-
- 3xCOG MSRP: $0.00
+|#6 Wood Screw|2|$0.20|www.example.com|
+|Total: |2|$0.20| |
